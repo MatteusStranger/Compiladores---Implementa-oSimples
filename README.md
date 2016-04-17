@@ -1,4 +1,4 @@
-#Implementação simples de um compilador
+#Implementação de um compilador simples
 Implementação de um analisador sintático descendente recursivo para analisar cadeias pertencentes à linguagem por ela gerada (utilizando funções para cada não-terminal), junto com sua representação através de grafos sintáticos.
 G = ( {I,D,L,X,K,O,S,E,R,T}, {var, : , , , integer, real, id, :=, +, id, if, then}, P, I)
 P:
